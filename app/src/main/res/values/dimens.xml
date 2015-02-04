@@ -6,5 +6,5 @@
     <dimen name="diameter">56dp</dimen>
     <dimen name="elevation_low">3dp</dimen>
     <dimen name="elevation_high">10dp</dimen>
-    <dimen name="fab_icon_sizer">30dp</dimen>
+    <dimen name="fab_icon_sizer">24dp</dimen>
 </resources>
